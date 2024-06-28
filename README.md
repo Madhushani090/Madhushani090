@@ -1,4 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://madhushani090.io)
+![github-header-image (1)](https://github.com/Madhushani090/Madhushani090/assets/127594325/bc94bee3-5d05-448a-92fe-e4fddb2869a7)
+
+
 
 <h1 align="center">Hi 👋, I'm Ishini Madhushani</h1>
 <h3 align="center">A passionate software developer from Sri lanka</h3>
